@@ -1,9 +1,3 @@
-$(function() {
-    loadsmth(function() {
-
-    });
-});
-
 function loadsmth(callback) {
     var xmlhttp;
     xmlhttp = new XMLHttpRequest();
