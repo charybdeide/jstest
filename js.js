@@ -1,6 +1,1 @@
-window.onload = loadsmth;
-
-function loadsmth(callback) {
-    alert("ceva");
-}
-
+window.onmousemove = function() { alert("bogdi");  }
