@@ -1,1 +1,6 @@
-window.onmousemove = function() { alert("bogdi");  }
+window.onload = loadsmth;
+
+function loadsmth(callback) {
+    alert("ceva");
+}
+
